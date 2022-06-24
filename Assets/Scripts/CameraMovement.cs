@@ -2,6 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//this comment is a test for git btw
+
 public class CameraMovement : MonoBehaviour
 {
     [SerializeField] Transform target;
