@@ -42,6 +42,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -304,6 +305,13 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      PlayerLanding_3: 681141779262527709
+      PlayerLanding_1: 6181969238721039174
+      PlayerLanding_2: 7347907605337528444
+      PlayerLanding_5: 17426343391908537
+      PlayerLanding_4: -8057347897503952642
+      PlayerLanding_0: -3361304784610657224
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
